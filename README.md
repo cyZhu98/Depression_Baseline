@@ -88,6 +88,7 @@ We recommend using our dataset partition so everyone can have fair comparisons.
 Please feel free to open an issue.
 
 ## Results on the test set
+参数都没有细调，随便跑的实验
 
 | Method | Partition | Loader Mode | Accuracy | F1-score | Precision | Recall |
 |:---|:---:|:---:|:---:|:---:|:---:| :---: |
