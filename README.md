@@ -46,7 +46,7 @@ B(dataloader_splcie.py default): we splice tweets into one sentence as the origi
 
 Keep you root in main/code/
 
-1.download images to main/data/pic
+1.download images to main/data/pic: change the '''current_dir''' in [get_images.py](data/get_images.py)
 
 ```bash
 cd /path/main/data
