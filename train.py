@@ -23,7 +23,7 @@ def fix_seed(seed):
 
 def select_model(args):
     if args.text_only:
-        if args.loader_mode == 'splice' and args.baseline == 'fintune':
+        if args.loader_mode == 'splice' and args.baseline == 'finetune':
             model = Text_Splice_Finetune().cuda()
         elif args.loader_mode == 'splice' and args.baseline == 'gru':
             model = Text_Splice_GRU().cuda()
