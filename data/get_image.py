@@ -64,7 +64,7 @@ def get_pic(url_list):
                             print('error')
 
 
-current_dir = '/media/sdc/zhuchenyang/Depression/sina/data'
+current_dir = 'main/data'
 
 depressed = os.path.join(current_dir, 'normal.json') # TODO:edit here
 with open(depressed, 'r', encoding='utf-8') as f:
