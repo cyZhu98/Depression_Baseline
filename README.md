@@ -1,7 +1,7 @@
 # This project aims at providing baselines for Multimodal Depression Dataset, WU3D.
 
 ## Weibo User Depression Detection Dataset (WU3D)
-[Dataset Link](https://github.com/aidenwang9867Weibo-User-Depession-Detection-Dataset)
+[Dataset Link](https://github.com/aidenwang9867/Weibo-User-Depession-Detection-Dataset)
 ```
 |-- main
     |-- data
